@@ -1,0 +1,15 @@
+﻿@model LoginUser;
+@{
+    Layout = null;
+}
+
+    <h6 style="color:red"> @ViewData["Notsucess"] </h6>
+    <h6 style="color:green"> @ViewData["sucess"] </h6>
+    <h2> @ViewData["Sorry"]</h2>  
+        <form action="" method="post">
+            
+            <input type="text" placeholder="Username" asp-for="@Model.UserName" />
+            <input type="password" placeholder="Password" asp-for="@Model.Password"/>
+            <button type="submit">submit</button>
+        
+        </form>

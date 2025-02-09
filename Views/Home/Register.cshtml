@@ -1,0 +1,19 @@
+﻿@model MambaUser.Models.LoginUser;
+<html>
+    
+    <body>
+       <h1>registration</h1>
+        
+        <form action="Register" method="post">
+        
+             <label for="UserName">UserName</label>
+           <input type="text" name="Username" placeholder="Username" asp-for=@Model.UserName>
+           <label for="Password">Password</label>
+           <input type="password" name="Password" placeholder="password" asp-for="@Model.Password">
+           <button type="submit">Submit</button>
+        
+        </form>
+
+    </body>
+    
+    </html>
