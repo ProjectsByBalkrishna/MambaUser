@@ -151,7 +151,6 @@ C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\MambaUser.RazorAssemb
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\scopedcss\bundle\MambaUser.styles.css
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\scopedcss\projectbundle\MambaUser.bundle.scp.css
-C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\abdhc0oc8t-b9sayid5wm.gz
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\xi4wv57m14-61n19gt1b8.gz
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\zz8zwqny10-xtxxf3hu2r.gz
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\xmbctlwgur-bqjiyaj88i.gz
@@ -230,4 +229,7 @@ C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\refint\MambaUser.dll
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\MambaUser.pdb
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\MambaUser.genruntimeconfig.cache
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\ref\MambaUser.dll
+C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\MambaUser.sourcelink.json
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\s0chvy5x4y-cvdzwsf9d4.gz
+C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\abdhc0oc8t-o2aqie5fux.gz

@@ -2,14 +2,19 @@
 @{
     Layout = null;
 }
-
-    <h6 style="color:red"> @ViewData["Notsucess"] </h6>
-    <h6 style="color:green"> @ViewData["sucess"] </h6>
-    <h2> @ViewData["Sorry"]</h2>  
-        <form action="" method="post">
-            
-            <input type="text" placeholder="Username" asp-for="@Model.UserName" />
-            <input type="password" placeholder="Password" asp-for="@Model.Password"/>
+<link href="~/css/login.css" rel="stylesheet" />
+<h3 style="color:antiquewhite;"><i> @ViewData["Notsucess"]</i> </h3>
+<h1 style="color:ghostwhite">Login</h1>
+<div class="form">
+   
+<form action="" method="post">
+           
+            <input type="text" placeholder="Username"  asp-for="@Model.UserName" /><br />
+            <input type="password" placeholder="Password" asp-for="@Model.Password"/><br />
             <button type="submit">submit</button>
         
         </form>
+
+    </div>   
+
+   

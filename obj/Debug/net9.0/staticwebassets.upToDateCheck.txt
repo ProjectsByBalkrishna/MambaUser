@@ -45,6 +45,7 @@ C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\jquery-validation\dist\add
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\css\Login.css
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
@@ -60,6 +61,7 @@ C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\jquery-validation-unobtrus
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\wwwroot\js\site.js
+wwwroot\css\Login.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
