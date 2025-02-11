@@ -10,6 +10,7 @@ namespace MambaUser.Data{
         }
 
 public DbSet<LoginUser> Users { get; set; }
+public DbSet<books> Books { get; set; }
 
     }
 }

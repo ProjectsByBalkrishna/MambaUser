@@ -1,0 +1,30 @@
+﻿@model IEnumerable<books>
+<button class="btn btn-outline-info"><a asp-action="Create" asp-controller="Book" style="text-decoration:none">Add new Book</a></button>
+    <table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Author</th>
+        <th>description</th>
+        <th>price</th>
+        <th>Update</th>
+    </tr>
+  @foreach(var x in Model){
+ <tr>
+        <td>@x.Name</td>
+        <td>@x.Author</td>
+        <td>@x.Description</td>
+        <td>@x.Price</td>
+
+             <td>
+                <div>
+                    <a asp-controller="Book" asp-action="Update" asp-route-id="@x.BookId">
+                        Update
+                    </a> 
+                </div> 
+            </td>
+            
+        </tr>
+  }
+ 
+
+</table>
