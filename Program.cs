@@ -5,8 +5,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// using Microsoft.EntityFrameworkCore;
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseInMemoryDatabase("Mamba_User"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 builder.Services.AddSession();
 var app = builder.Build();
 

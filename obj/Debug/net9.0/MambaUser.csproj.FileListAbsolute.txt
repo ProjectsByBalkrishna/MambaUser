@@ -233,4 +233,3 @@ C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\MambaUser.sourcelink.
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\abdhc0oc8t-o2aqie5fux.gz
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\s0chvy5x4y-yw2gziofzk.gz
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\mq2eswllcf-zfogfnc2k6.gz
-C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

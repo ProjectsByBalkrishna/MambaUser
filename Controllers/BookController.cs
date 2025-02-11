@@ -31,6 +31,12 @@ namespace MambaUser.Controllers
                     Price = boks.Price,
                     Author = boks.Author,
                     Description = boks.Description,
+                    CreatedBy= boks.CreatedBy,
+                    CreatedDate=boks.CreatedDate,
+                    Modifiedby=boks.Modifiedby,
+                    IsActive=boks.IsActive,
+                    ModifiedDate=boks.ModifiedDate
+                    
                 };
 
                 _context.Books.Add(newbook);
