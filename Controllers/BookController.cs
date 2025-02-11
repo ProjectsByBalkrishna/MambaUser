@@ -13,11 +13,12 @@ namespace MambaUser.Controllers
             _context = context;
         }
 
-//[HttpGet]
-//public IActionResult Create(){
-//return View();
-//}
-//        [HttpPost]
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
         public IActionResult Create(books boks)
         {
             if (ModelState.IsValid)
@@ -70,6 +71,19 @@ namespace MambaUser.Controllers
             {
                 ViewData["IM"] = "Invalid modelstate";
                 //return View();
+            }
+            return View();
+        }
+
+        public IActionResult Delete(int id)
+        {
+            if (ModelState.IsValid) { 
+                var delbook = _context.Books.Find(id);
+                if (delbook != null) { 
+                    _context.Books.Remove(delbook);
+                    _context.SaveChanges();
+                    return RedirectToAction("AllUser", "Book");
+                }
             }
             return View();
         }

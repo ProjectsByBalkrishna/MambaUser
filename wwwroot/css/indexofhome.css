@@ -69,6 +69,7 @@
     #rightsection .boxon a {
        text-decoration:none;
        color:black;
+       text-size: 2vh;
     }
 body{
     background-color:mediumpurple;

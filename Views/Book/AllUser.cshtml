@@ -7,6 +7,8 @@
         <th>description</th>
         <th>price</th>
         <th>Update</th>
+        <th>Delete</th>
+
     </tr>
   @foreach(var x in Model){
  <tr>
@@ -21,6 +23,14 @@
                         Update
                     </a> 
                 </div> 
+            </td>
+
+            <td>
+                <div>
+                    <a asp-controller="Book" asp-action="Delete" asp-route-id="@x.BookId">
+                        Delete
+                    </a>
+                </div>
             </td>
             
         </tr>
