@@ -10,8 +10,9 @@
         <th>Delete</th>
 
     </tr>
-  @foreach(var x in Model){
- <tr>
+  @foreach(var x in Model)
+  {
+    <tr>
         <td>@x.Name</td>
         <td>@x.Author</td>
         <td>@x.Description</td>
@@ -24,7 +25,6 @@
                     </a> 
                 </div> 
             </td>
-
             <td>
                 <div>
                     <a asp-controller="Book" asp-action="Delete" asp-route-id="@x.BookId">
@@ -33,8 +33,6 @@
                 </div>
             </td>
             
-        </tr>
+    </tr>
   }
- 
-
 </table>

@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MambaUser.Models
 {
@@ -10,10 +11,17 @@ namespace MambaUser.Models
         public required string Author { get; set; }
         public decimal Price { get; set; }
         public string? Description { get; set; }
-        public required Admin CreatedBy { get; set; }
+        public  int CreatorAdminID;
+        [ForeignKey("CreatorAdminID")]
+        public  Admina CreatedBy { get; set; }
         public DateTime CreatedDate { get; set; } = DateTime.Now;
-        public required Admin Modifiedby { get; set; }
+        public  int ModifierAdminID;
+        [ForeignKey("ModifierAdminID")]
+        public  Admina Modifiedby { get; set; }
         public DateTime ModifiedDate { get; set; } = DateTime.Now;
+        public int CategoryID { get; set; }
+        [ForeignKey("CategoryID")]
+        public Category Category { get; set; }
         public bool IsActive { get; set; }
     }
 
@@ -24,8 +32,14 @@ namespace MambaUser.Models
         public required string Author { get; set; }
         public decimal Price { get; set; }
         public string? Description { get; set; }
-        public required Admin Modifiedby { get; set; }
+        public int ModifierAdminID { get; set; }
+        [ForeignKey("ModifierAdminID")]
+        public  Admina Modifiedby { get; set; }
         public DateTime ModifiedDate { get; set; } = DateTime.Now;
         public bool IsActive { get; set; }
+        public int CategoryID { get; set; }
+        [ForeignKey("CategoryID")]
+        public Category Category { get; set; }
+
     }
 }
