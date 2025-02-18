@@ -6,9 +6,14 @@
         <th>Author</th>
         <th>description</th>
         <th>price</th>
+        <th>created date</th>
+        <th>modifieddate</th>
+        <th>IsActive</th>
+        <th>category</th>
+        <th>created by</th>
+        <th>Modified by</th>
         <th>Update</th>
         <th>Delete</th>
-
     </tr>
   @foreach(var x in Model)
   {
@@ -17,6 +22,14 @@
         <td>@x.Author</td>
         <td>@x.Description</td>
         <td>@x.Price</td>
+        <td>@x.CreatedDate</td>
+        <td>@x.ModifiedDate</td>
+        <td>@x.IsActive</td>
+        <td>@x.Category</td>
+        <td>@x.CreatedBy</td>
+        <td>@x.Modifiedby</td>
+
+
 
              <td>
                 <div>

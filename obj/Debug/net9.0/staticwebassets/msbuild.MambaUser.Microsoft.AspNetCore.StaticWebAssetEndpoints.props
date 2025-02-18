@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MambaUser/css/indexofhome.bmytw8qrtq.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\indexofhome.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bmytw8qrtq"},{"Name":"integrity","Value":"sha256-fQtkhMDWx/vX5AjPVdLZyDJSTe5qjBm8aMCbfzpiimU="},{"Name":"label","Value":"_content/MambaUser/css/indexofhome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1655"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fQtkhMDWx/vX5AjPVdLZyDJSTe5qjBm8aMCbfzpiimU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 17:05:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MambaUser/css/indexofhome.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\indexofhome.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v0p\u002BohI3JVMJHuMymD7TM8j4GzMzSCzSJ7ZshUK\u002BgTM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1650"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022v0p\u002BohI3JVMJHuMymD7TM8j4GzMzSCzSJ7ZshUK\u002BgTM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 06:54:41 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MambaUser/css/indexofhome.zfogfnc2k6.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\indexofhome.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zfogfnc2k6"},{"Name":"integrity","Value":"sha256-v0p\u002BohI3JVMJHuMymD7TM8j4GzMzSCzSJ7ZshUK\u002BgTM="},{"Name":"label","Value":"_content/MambaUser/css/indexofhome.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1650"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022v0p\u002BohI3JVMJHuMymD7TM8j4GzMzSCzSJ7ZshUK\u002BgTM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 06:54:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fQtkhMDWx/vX5AjPVdLZyDJSTe5qjBm8aMCbfzpiimU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1655"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022fQtkhMDWx/vX5AjPVdLZyDJSTe5qjBm8aMCbfzpiimU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 17:05:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MambaUser/css/Login.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))</AssetFile>

@@ -17,57 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MambaUser
 build_property.RootNamespace = MambaUser
-build_property.ProjectDir = c:\Users\ritu2\OneDrive\Desktop\MambaUser\
+build_property.ProjectDir = C:\Users\ritu2\OneDrive\Desktop\MambaUser\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\ritu2\OneDrive\Desktop\MambaUser
+build_property.MSBuildProjectDirectory = C:\Users\ritu2\OneDrive\Desktop\MambaUser
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Book/AllUser.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Book/AllUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xBbGxVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Book/Create.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Book/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Book/Update.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Book/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Home/Index.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Home/Login.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Home/Register.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Shared/Error.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/_ViewImports.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/_ViewStart.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Shared/_Layout.cshtml]
+[C:/Users/ritu2/OneDrive/Desktop/MambaUser/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ye21kp9mz3

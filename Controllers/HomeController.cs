@@ -9,23 +9,34 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
     private readonly AppDbContext _context;
-    
+
     public HomeController(ILogger<HomeController> logger, AppDbContext context)
     {
         _logger = logger;
-        _context= context;
+        _context = context;
     }
     public IActionResult Index()
     {
-        if (HttpContext.Session.GetString("UserLoggedIn ")== "true")
+        if (HttpContext.Session.GetString("UserLoggedIn ") == "true")
         {
-           return View();
+
+            { // run if data base is null 
+               //SeedData data = new(_context);
+               //data.AddBooks();
+              // data.AddAdmin();
+              // data.AddUsers();
+            }
+
+            return View();
+
         }
         else
-        { return RedirectToAction("Login");
+        {
+            return RedirectToAction("Login");
         }
-       
+
     }
+
     //[HttpGet]
     //  public IActionResult Register(){
     //  return  View();
@@ -81,6 +92,8 @@ public class HomeController : Controller
     //       }
     //       return View();
     //   }
+
+
     string username = "Admin";
     string Password = "Admin";
 
@@ -88,6 +101,7 @@ public class HomeController : Controller
     [HttpGet]
     public IActionResult Login()
     {
+
         return View();
     }
 
@@ -120,7 +134,7 @@ public class HomeController : Controller
     }
     public IActionResult Logout()
     {
-        HttpContext.Session.Clear(); 
+        HttpContext.Session.Clear();
         return RedirectToAction("Login");
     }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -3,12 +3,27 @@
         <h1> Create new user </h1>
     <h3 style="color:cornflowerblue">@ViewData["message"]</h3>
 
-<form action="Create" method="post">
-<input type="text" name="Name" placeholder="BookName" required>
-<input type="text" name="author" placeholder="Author" required>
-<input type="text" name="description" placeholder="description" required>
-<input type="text" name="price" placeholder="price" required>
-<button type="submit">Create</button>
+<form style="background-color:aliceblue" action="Create" method="post">
+<input type="text" name="Name" placeholder="BookName" required><br /> <br />
+        <input type="text" name="author" placeholder="Author" required><br /><br />
+        <input type="text" name="description" placeholder="description" required><br /><br />
+        <input type="date" name="Created" placeholder="price" required><br /><br />
+        <input type="text" name="price" placeholder="price" required><br /><br />
+        <select name="IsActive">
+    <option value=true>Available book</option>
+    <option value=false>Not Available </option>
+</select>
+        
+<select name="Category"> 
+    
+    <option value=0>horror</option>
+    <option value=1>fictional</option>
+    <option value=2>non-fictional</option>
+    <option value=3>drama</option>
+    <option value=4>mystery</option>
+    <option value=5>other</option>
+        </select><br /><br />
+<button type="submit" class="btn btn-outline-success">Create</button>
 </form>
 
 

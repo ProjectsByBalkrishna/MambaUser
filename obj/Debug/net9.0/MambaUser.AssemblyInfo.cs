@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MambaUser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9c1b3e4b11035fc39592388a70f4e21ae8d397f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a9fcf9c0d51e5469c3999422b0d4fc1d4b529f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MambaUser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MambaUser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

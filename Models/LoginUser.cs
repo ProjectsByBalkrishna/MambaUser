@@ -13,9 +13,8 @@ namespace MambaUser.Models{
         public required long Phone  { get; set; }
         public bool  IsActive { get; set; }
         public DateTime CreatedDate { get; set; } =DateTime.Today;
-        public Admina CreatedBy {get;set;}
+        public int CreatedBy {get;set;}
         public DateTime ModifiedDate{get;set;}= DateTime.Today;
-        public Admina ModifiedBy{get;set;}
-
+        public int ModifiedBy{get;set;}
     }
 }

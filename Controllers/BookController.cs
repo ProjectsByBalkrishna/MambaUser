@@ -31,12 +31,11 @@ namespace MambaUser.Controllers
                     Price = boks.Price,
                     Author = boks.Author,
                     Description = boks.Description,
-                    CreatedBy= boks.CreatedBy,
-                    CreatedDate=boks.CreatedDate,
-                    Modifiedby=boks.Modifiedby,
-                    IsActive=boks.IsActive,
-                    ModifiedDate=boks.ModifiedDate
-                    
+                    CreatedBy = boks.CreatedBy,
+                    CreatedDate = boks.CreatedDate,
+                    IsActive = boks.IsActive,                   
+                    Category= boks.Category
+
                 };
 
                 _context.Books.Add(newbook);
@@ -52,25 +51,29 @@ namespace MambaUser.Controllers
 
         public IActionResult AllUser()
         {
-            var all=_context.Books.ToList();
+            var all = _context.Books.ToList();
             return View(all);
         }
 
         public IActionResult Update(int id, Updatebooks book)
         {
-            if (ModelState.IsValid)     
+            if (ModelState.IsValid)
             {
                 var Upbook = _context.Books.Find(id);
                 if (Upbook != null)
                 {
-                   Upbook.Name = book.Name;
+                    Upbook.Name = book.Name;
                     Upbook.Price = book.Price;
-                    Upbook.Author= book.Author;
-                    Upbook.Description = book.Description; 
+                    Upbook.Author = book.Author;
+                    Upbook.Description = book.Description;
+                    Upbook.ModifiedDate=DateTime.Today;
+                    Upbook.Modifiedby=1;
+                    Upbook.IsActive = book.IsActive;
+                    Upbook.Category = book.Category;
                     _context.Books.Update(Upbook);
                     _context.SaveChanges();
                 }
-              
+
                 return RedirectToAction("AllUser", "Book");
             }
             else
@@ -83,9 +86,11 @@ namespace MambaUser.Controllers
 
         public IActionResult Delete(int id)
         {
-            if (ModelState.IsValid) { 
+            if (ModelState.IsValid)
+            {
                 var delbook = _context.Books.Find(id);
-                if (delbook != null) { 
+                if (delbook != null)
+                {
                     _context.Books.Remove(delbook);
                     _context.SaveChanges();
                     return RedirectToAction("AllUser", "Book");
@@ -93,5 +98,7 @@ namespace MambaUser.Controllers
             }
             return View();
         }
+
+
     }
 }

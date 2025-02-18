@@ -1,8 +1,32 @@
 ﻿@model Updatebooks
-<form method="post">
-<input type="text" name="Name" placeholder="Name" />
-<input type="text" name="Price" value="Price" />
-<input type="text" name="Author" value="Author" />
-<input type="text" name="description" value="Description" />
-    <button type="submit"> Update</button>
-</form>
+<html>
+<body>
+    <h1> Update Book </h1>
+    <h3 style="color:cornflowerblue">@ViewData["message"]</h3>
+
+    <form style="background-color:antiquewhite" method="post">
+        <input type="text" name="Name" placeholder="BookName" required><br /> <br />
+        <input type="text" name="author" placeholder="Author" required><br /><br />
+        <input type="text" name="description" placeholder="description" required><br /><br />
+        <input type="date" name="Created" placeholder="price" required><br /><br />
+        <input type="text" name="price" placeholder="price" required><br /><br />
+        <select name="IsActive">
+            <option value=true>Available book</option>
+            <option value=false>Not Available </option>
+        </select>
+
+        <select name="Category">
+
+            <option value=0>horror</option>
+            <option value=1>fictional</option>
+            <option value=2>non-fictional</option>
+            <option value=3>drama</option>
+            <option value=4>mystery</option>
+            <option value=5>other</option>
+        </select><br /><br />
+        <button class="btn btn-outline-primary" type="submit">Update</button>
+    </form>
+
+
+</body>
+</html>

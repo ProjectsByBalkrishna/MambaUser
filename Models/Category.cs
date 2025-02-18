@@ -6,6 +6,5 @@ namespace MambaUser.Models{
         drama,
         Mystery,
         other
-
     }
 }

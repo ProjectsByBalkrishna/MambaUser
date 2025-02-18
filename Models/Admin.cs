@@ -1,7 +1,8 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MambaUser.Models{
-    public class Admina{
+    public class Admin{
         [Key]
         public int AdminID { get; set; }
         public required string Name { get; set; }
