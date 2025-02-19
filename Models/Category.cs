@@ -1,10 +1,11 @@
 namespace MambaUser.Models{
     public enum Category{
-        Horror,
+        Ordinary,
         fictional,
         non_fictional,
         drama,
         Mystery,
-        other
+        other,
+         Horror
     }
 }

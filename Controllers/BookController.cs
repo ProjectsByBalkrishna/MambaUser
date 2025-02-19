@@ -38,9 +38,9 @@ namespace MambaUser.Controllers
 
                 };
 
-                _context.Books.Add(newbook);
+                _context.Add(newbook);
                 _context.SaveChanges();
-                return RedirectToAction("AllUser");
+                return RedirectToAction("AllBooks");
             }
             else
             {
@@ -49,12 +49,16 @@ namespace MambaUser.Controllers
             }
         }
 
-        public IActionResult AllUser()
+        public IActionResult AllBooks()
         {
             var all = _context.Books.ToList();
             return View(all);
         }
-
+        [HttpGet]
+        public IActionResult Update(int id){
+            return View(_context.Books.Find(id));
+        }
+        [HttpPost]
         public IActionResult Update(int id, Updatebooks book)
         {
             if (ModelState.IsValid)
@@ -74,7 +78,7 @@ namespace MambaUser.Controllers
                     _context.SaveChanges();
                 }
 
-                return RedirectToAction("AllUser", "Book");
+                return RedirectToAction("AllBooks", "Book");
             }
             else
             {
@@ -93,11 +97,22 @@ namespace MambaUser.Controllers
                 {
                     _context.Books.Remove(delbook);
                     _context.SaveChanges();
-                    return RedirectToAction("AllUser", "Book");
+                    return RedirectToAction("AllBooks", "Book");
                 }
             }
             return View();
         }
+
+        public IActionResult AvailableBook(){
+            var avail = _context.Books.ToList().Where(x => x.IsActive == true);
+            return View(avail);
+        }
+        public IActionResult IssuedBook()
+        {
+            var avail = _context.Books.ToList().Where(x => x.IsActive == false);
+            return View(avail);
+        }
+
 
 
     }

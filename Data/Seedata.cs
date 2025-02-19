@@ -12,9 +12,7 @@ namespace MambaUser.Data
 
         public void AddUsers()
         {
-            if (_context.Users == null)
-            {
-
+           
 
                 var User1 = new LoginUser
                 {
@@ -62,7 +60,7 @@ namespace MambaUser.Data
                 _context.Users.Add(user3);
                 _context.SaveChanges();
             }
-        }
+        
 
         public void AddAdmin()
         {

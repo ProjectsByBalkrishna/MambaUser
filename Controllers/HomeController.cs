@@ -20,12 +20,13 @@ public class HomeController : Controller
         if (HttpContext.Session.GetString("UserLoggedIn ") == "true")
         {
 
-            { // run if data base is null 
+           // run if data base is null 
                //SeedData data = new(_context);
-               //data.AddBooks();
+               //  data.AddUsers();
+                //data.AddBooks();
               // data.AddAdmin();
-              // data.AddUsers();
-            }
+              
+          
 
             return View();
 
@@ -102,6 +103,10 @@ public class HomeController : Controller
     public IActionResult Login()
     {
 
+        return View();
+    }
+
+    public IActionResult UnderDevelopment(){
         return View();
     }
 

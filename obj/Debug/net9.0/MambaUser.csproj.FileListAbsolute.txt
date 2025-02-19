@@ -233,4 +233,3 @@ C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\MambaUser.pdb
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\MambaUser.genruntimeconfig.cache
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\ref\MambaUser.dll
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\mq2eswllcf-bmytw8qrtq.gz
-C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
