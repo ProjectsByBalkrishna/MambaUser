@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\wwwroot\\css\\indexofhome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\css\\indexofhome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\user\\alluser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:views\\user\\alluser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,18 +55,6 @@
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\wwwroot\\css\\indexofhome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\css\\indexofhome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -47,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\home\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -79,20 +87,12 @@
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\views\\book\\availablebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:views\\book\\availablebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|solutionrelative:models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B14E4629-6B4F-DE83-F86A-DD5E2DCB8232}|MambaUser.csproj|c:\\users\\ritu2\\onedrive\\desktop\\mambauser\\data\\seedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,11 +150,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 223,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -163,21 +163,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-09T18:05:59.869Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\User\\AddUser.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\AddUser.cshtml",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\User\\AddUser.cshtml",
-              "RelativeToolTip": "Views\\User\\AddUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T16:19:12.566Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -194,45 +180,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AllBooks.cshtml",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Book\\AllBooks.cshtml",
-              "RelativeDocumentMoniker": "Views\\Book\\AllBooks.cshtml",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Book\\AllBooks.cshtml",
-              "RelativeToolTip": "Views\\Book\\AllBooks.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T14:44:12.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Login.css",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\Login.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
               "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\Login.css",
               "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-20T10:31:49.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "indexofhome.css",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\indexofhome.css",
               "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css",
               "RelativeToolTip": "wwwroot\\css\\indexofhome.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-20T10:50:28.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
@@ -245,98 +218,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAlwE0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:20:16.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AllUser.cshtml",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\User\\AllUser.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\AllUser.cshtml",
               "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\User\\AllUser.cshtml",
               "RelativeToolTip": "Views\\User\\AllUser.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-18T14:54:50.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAKEHAAAAAAAAAAAQwD4HAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-21T13:07:00.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:42:16.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ViewState": "AgIAAOQRAAAAAAAAAAAAACUKAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-21T13:05:33.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-20T11:06:35.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T18:40:33.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -349,7 +244,131 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Models\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Models\\LoginUser.cs",
+              "RelativeToolTip": "Models\\LoginUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:46:41.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T18:05:51.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T11:06:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAlwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:20:16.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Book\\AllBooks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\AllBooks.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Book\\AllBooks.cshtml",
+              "RelativeToolTip": "Views\\Book\\AllBooks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:44:12.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\User\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\User\\AddUser.cshtml",
+              "RelativeToolTip": "Views\\User\\AddUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:19:12.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAKEHAAAAAAAAAAAQwD4HAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T13:07:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:42:16.681Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAOQRAAAAAAAAAAAAACUKAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T13:05:33.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T18:40:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AboutME.cshtml",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Home\\AboutME.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\AboutME.cshtml",
@@ -357,12 +376,11 @@
               "RelativeToolTip": "Views\\Home\\AboutME.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T15:26:07.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T15:26:07.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "bootstrap.css.map",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
@@ -374,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "bootstrap.js",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
@@ -386,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "bootstrap-utilities.css",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
@@ -398,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "bootstrap-reboot.css",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
@@ -410,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -419,18 +437,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T18:33:44.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T18:05:51.281Z"
             },
             {
               "$type": "Document",
@@ -446,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AvailableBook.cshtml",
               "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Views\\Book\\AvailableBook.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\AvailableBook.cshtml",
@@ -455,18 +461,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-19T10:47:58.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Models\\LoginUser.cs",
-              "RelativeDocumentMoniker": "Models\\LoginUser.cs",
-              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\Models\\LoginUser.cs",
-              "RelativeToolTip": "Models\\LoginUser.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:46:41.585Z"
             },
             {
               "$type": "Document",

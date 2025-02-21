@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>sqcwr9mat8</Fingerprint>
-      <Integrity>hKeBisg0nqtXwEV6UQoeqIj6/VDQWgW/IDiXehMZzt0=</Integrity>
+      <Fingerprint>bovkcwlpzn</Fingerprint>
+      <Integrity>pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\indexofhome.css'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e2huo41514</Fingerprint>
-      <Integrity>5qluVom70zlyMC5ZPQBThraTeBhGqUSNCweHFtBWGAc=</Integrity>
+      <Fingerprint>hy73ifnjof</Fingerprint>
+      <Integrity>95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))</OriginalItemSpec>
@@ -1206,23 +1206,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MambaUser.onjw3hodo3.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MambaUser.rblwr1yc8y.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>MambaUser</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MambaUser</BasePath>
-      <RelativePath>MambaUser.onjw3hodo3.bundle.scp.css</RelativePath>
+      <RelativePath>MambaUser.rblwr1yc8y.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>onjw3hodo3</Fingerprint>
-      <Integrity>hLJfyCMKBO9JIcbnDmuTaBU3GbA2eRgTGk5KOcucg9g=</Integrity>
+      <Fingerprint>rblwr1yc8y</Fingerprint>
+      <Integrity>CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MambaUser.onjw3hodo3.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MambaUser.rblwr1yc8y.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

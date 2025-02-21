@@ -5,27 +5,40 @@
     background-size: cover;
 }
 
-.Page{
-    display:flex;
-    justify-content:space-between;
-    
+.Page {
+    display: flex;
+    justify-content: space-between;
 }
 
-.form{
-/*    background-color:white;*/
-    width:100%;
-    align-content:center;
-    justify-content:center;
-    color:black;
+.form {
+    /*    background-color:white;*/
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    color: black;
 }
 
-.form form{
-    display: grid;
-    margin: 0% 35% 0% 0%;
-    /* margin: -111px 124px; */
-}
+    .form form {
+        display: grid;
+        margin: 0% 35% 0% 0%;
+        border: 1px solid black;
+      padding:10px 20px;
+        box-shadow: 20px 20px 10px 0px grey;
+        background-color:antiquewhite;
+        /* margin: -111px 124px; */
+    }
+    input:hover{
+       
+        box-shadow:1px 1px 1px 0px grey;
+        background-color:cornsilk;
+    }
 
 .im{/* background-color:lightblue; 
     //* width: 50%; */
     padding:0% 13% ;
+   
 }
+/*.im img{*/ /* background-color:lightblue; 
+    //* width: 50%; */
+    /*box-shadow:20px 20px 10px 0px grey;
+}*/

@@ -102,8 +102,7 @@ public class HomeController : Controller
     [HttpGet]
     public IActionResult Login()
     {
-
-        return View();
+return View();
     }
 
     public IActionResult UnderDevelopment()
@@ -115,14 +114,14 @@ public class HomeController : Controller
         return View();
     }
     [HttpPost]
-    public IActionResult Login(LoginUser user)
-    {
+    public IActionResult Login(Admin user, int Id)
+    {  var hop= _context.Admins.Find(Id);
         try
         {
-            if (user.Password == Password && user.UserName == username)
+            if (user.Password == Password && user.Name == username)
             {
                 HttpContext.Session.SetString("UserLoggedIn ", "true");
-                ViewData["sucess"] = $"Thanks for Logging in {user.UserName}";
+                ViewData["sucess"] = $"Thanks for Logging in {user.Name}";
 
                 return RedirectToAction("Index", "Home");
 

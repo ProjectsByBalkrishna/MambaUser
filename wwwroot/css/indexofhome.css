@@ -75,7 +75,7 @@ ul a:hover {
     border :1px solid black;
   
 }
-    #rightsection .boxon:hover {
+    #rightsection .boxon:where(:hover){
         padding: 8px;
         margin: 10px;
         width: 40%;

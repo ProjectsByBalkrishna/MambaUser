@@ -1,4 +1,4 @@
-﻿@model LoginUser;
+﻿@model Admin;
 @{
     Layout = null;
 }
@@ -16,10 +16,13 @@
       <img src="~/Images/Jordan.jpg" alt="Jordan" width="100%">
     </div>
 <div class="form">
-   
+   @* <form action="">
+    <input type="number" placeholder="ID">
+    <button type="submit">Search</button>
+   </form> *@
 <form action="" method="post">
             <h1>Login</h1>
-           <label>Admin Name</label> <input type="text" placeholder="Username"  asp-for="@Model.UserName" /><br />
+           <label>Admin Name</label> <input type="text" placeholder="Username"  asp-for="@Model.Name"  /><br />
          <label for="Password">Admin Password</label>   <input type="password" placeholder="Password" asp-for="@Model.Password"/><br />
             <button type="submit">submit</button>
         
