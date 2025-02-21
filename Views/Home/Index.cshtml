@@ -9,12 +9,12 @@ Landing PAge
         <div id="section">
     <div id="leftsection">
         <ul>
-            <li> <a href="#">Books</a> </li>
-            <li><a href="">User</a> </li>
-            <li><a href="#">Author</a> </li>
-            <li><a href="#"> Issue </a> </li>
-            <li><a href="#">Help</a> </li>
-            <li><a href="#">about us</a>  </li>
+            <li> <a asp-controller="Book" asp-action="AllBooks">Books</a> </li>
+            <li><a asp-controller="User" asp-action="AllUser">User</a> </li>
+            <li><a asp-controller="Home" action="Underdevelopment">more</a> </li>
+            <li><a asp-controller="Home" asp-action="Underdevelopment"> Issue </a> </li>
+            <li><a asp-controller="Home" asp-action="UnderDevelopment">Help</a> </li>
+            <li><a asp-controller="Home" asp-action="AboutME">about us</a>  </li>
 
         </ul>
     </div>
@@ -22,7 +22,7 @@ Landing PAge
     <div id="rightsection">
        <div class="one">
 
-        <div class="boxon" style="background-color:rgb(238, 188, 130)"><a asp-controller="Book" asp-action="Create"> Add Book</a></div>
+        <div  class="boxon" style="background-color:rgb(238, 188, 130)"><a asp-controller="Book" asp-action="Create"> Add Book</a></div>
         <div class="boxon" style="background-color:rgb(238, 188, 130)"><a asp-controller="User" asp-action="AddUser">Add User</a></div>
         <div class="boxon" style="background-color:rgb(238, 188, 130)"><a asp-controller="Book" asp-action="AllBooks">All Books</a></div>
         <div class="boxon" style="background-color:rgb(238, 188, 130)"><a asp-controller="User" asp-action="AllUser">All Users</a></div>
@@ -40,8 +40,8 @@ Landing PAge
 
                 <div class="boxon" style="background-color:rgb(130, 166, 238)"><a asp-controller="Book" asp-action="AvailableBook">Available Books</a></div>
                 <div class="boxon" style="background-color:rgb(130, 166, 238)"><a asp-controller="Book" asp-action="IssuedBook">IssuedBooks</a></div>
-                <div class="boxon" style="background-color:rgb(130, 166, 238)"><a asp-controller="Home" asp-action="UnderDevelopment">upcoming Books</a></div>
-                <div class="boxon" style="background-color:rgb(130, 166, 238)"><a asp-controller="Home" asp-action="UnderDevelopment">upcoming feature</a></div>
+                <div class="boxon" style="background-color:rgb(130, 166, 238)"><a asp-controller="User" asp-action="AvailableUser">User w/o book</a></div>
+                <div class="boxon" style="background-color:rgb(130, 166, 238)"><a asp-controller="User" asp-action="UnAvailableUser">User with book</a></div>
             </div>
             <br />
             @* <div class="one">

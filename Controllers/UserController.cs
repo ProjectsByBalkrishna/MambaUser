@@ -17,11 +17,12 @@ namespace MambaUser.Controllers
 
         }
 
-[HttpGet]
-public IActionResult AddUser(){
-    return View();
-}
-    [HttpPost]
+        [HttpGet]
+        public IActionResult AddUser()
+        {
+            return View();
+        }
+        [HttpPost]
         public IActionResult AddUser(LoginUser user)
         {
             if (ModelState.IsValid)
@@ -46,41 +47,54 @@ public IActionResult AddUser(){
 
         }
 
-        public IActionResult Delete(int id){
-            var user= _context.Users.Find(id);
+        public IActionResult Delete(int id)
+        {
+            var user = _context.Users.Find(id);
             _context.Users.Remove(user);
             _context.SaveChanges();
-            return RedirectToAction("AllUser","User");
+            return RedirectToAction("AllUser", "User");
         }
         [HttpGet]
-        public IActionResult Update(int id){
-            if(ModelState.IsValid){
+        public IActionResult Update(int id)
+        {
+            if (ModelState.IsValid)
+            {
                 return View(_context.Users.Find(id));
             }
             return RedirectToAction("AllUser");
         }
 
         [HttpPost]
-        public IActionResult Update(updateuser user, int id){
+        public IActionResult Update(updateuser user, int id)
+        {
             var cuser = _context.Users.Find(id);
-           if(ModelState.IsValid){
-            cuser.UserName=user.UserName;
-            cuser.Password=user.Password;
-            cuser.Phone=user.Phone;
-            cuser.Email=user.Email;
-            cuser.ModifiedDate=DateTime.Today;
-            cuser.ModifiedBy=user.ModifiedBy;
-            _context.Users.Update(cuser);
-            _context.SaveChanges();
-        return RedirectToAction("AllUser","User");
-           }
+            if (ModelState.IsValid)
+            {
+                cuser.UserName = user.UserName;
+                cuser.Phone = user.Phone;
+                cuser.Email = user.Email;
+                cuser.ModifiedDate = DateTime.Today;
+                cuser.ModifiedBy = user.ModifiedBy;
+                cuser.IsActive = user.IsActive;
+                _context.Users.Update(cuser);
+                _context.SaveChanges();
+                return RedirectToAction("AllUser", "User");
+            }
 
             return View();
         }
-        public IActionResult UserByID(){
+        public IActionResult UserByID()
+        {
             return View();
         }
-        
+        public IActionResult AvailableUser(){
+    var avail= _context.Users.ToList().Where(x => x.IsActive==true);
 
+            return View(avail);
+        }
+   public IActionResult UnAvailableUser(){
+    var avail= _context.Users.ToList().Where(x => x.IsActive==false);
+            return View(avail);
+        }
     }
 }

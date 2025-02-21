@@ -3,16 +3,16 @@
 
 <body>
     <form method="post">
-        <input type="text" name="Username" placeholder="Username" asp-for=UserName value="@Model.UserName" >
-        <input type="password" name="Password" placeholder="password" asp-for=Password value="@Model.Password" >
-        <input type="email" name="Email" placeholder="email" asp-for=Email value="@Model.Email">
-        <input type="text" name="Phone" placeholder="Phone" asp-for=Phone value="@Model.Phone">
-        <select name="IsActive" >Is IsActive
+      <label for="">UserName</label>  <input type="text" name="Username" placeholder="Username" asp-for=UserName value="@Model.UserName" >
+        @* <input type="password" name="Password" placeholder="password" asp-for=Password value="@Model.Password" > *@
+       <label for="">Email</label>  <input type="email" name="Email" placeholder="email" asp-for=Email value="@Model.Email">
+         <label for="">Phone</label><input type="text" name="Phone" placeholder="Phone" asp-for=Phone value="@Model.Phone">
+        <label for="">Available?</label> <select name="IsActive" >
             <option value=true>Available</option>
             <option value=false>Not Available</option>
 
         </select>
-        <input type="number" name="modifiedby" placeholder="Modified BY" asp-for="ModifiedBy" value="@Model.ModifiedBy">
+       @* <label for=""></label>  <input type="number" name="modifiedby" placeholder="Modified BY" asp-for="ModifiedBy" value="@Model.ModifiedBy"> *@
         <button type="submit" class="btn btn-outline-success">Update</button>
     </form>
 </body>

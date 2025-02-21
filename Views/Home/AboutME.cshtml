@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AboutMe</title>
+    <style>
+        body{
+            background-color: cornflowerblue;
+            color: black;
+        }
+
+        h3  , p {
+            color: black;
+        }
+       
+        a{
+            color: antiquewhite;
+            text-decoration: none;
+            
+        }
+        strong{
+            color: black;
+        }
+    </style>
+</head>
+<body style="font-family: cursive; font-size: 90%;">
+    <h1>MambaUser</h1>
+    <h2>Library Management System</h2><br>
+
+    <h3>User</h3>
+    <p>Admin can Add new user by simply adding basic details, Delete and update the user from <a asp-action="AllUser" asp-controller="User">All User</a> page itself </p>
+
+    <br>
+
+    <h3>Book</h3>
+    <p>Admin can Add Books with the author name and price on the page, and can delete and update books from the <a asp-controller="Book" asp-action="AllBook">All Book</a>  Page </p>
+<br>
+
+<h3>Available Books and Users</h3>
+<p>This area of the application shows the Available User in <a asp-Controller="User" asp-action="AvailableUser">Available User</a> page and Available books on <a asp-controller="Book" asp-action="AvailableBook">Available Book</a> page </p>
+<br>
+<h3>Issued Book or Unavailable User</h3>
+<p>
+    This page is to show the issued Books in <a asp-controller="Book" asp-action="IssuedBook">Issued Book</a> page and Unavailable user at <a asp-controller="User" asp-action="UnAvailableUser" >Unavailable user</a> Page
+</p>
+<br>
+
+<strong>You can also contribute to this project <a href="https://github.com/projectsbybalkrishna/MambaUsers">Here</a></strong>
+
+</body>
+</html>

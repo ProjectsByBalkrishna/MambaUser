@@ -1,46 +1,31 @@
 ﻿body {
-    background-color: steelblue;
-/*   display: grid;*/
-    align-content: center;
-/*    justify-content: center;*/
-    font-family:cursive;
-    margin:10% 20%;
-}
-.form {
-    /*    display:grid;
-  justify-content:center; */
-   
-    background-color: #c4fffd2b;
-  
-/*    margin: 10% 50%;*/
-    padding: 5% 32%;
-   
+    background-color: #ffffff;
+    /* background: url('../images/sky01.jpg') no-repeat center fixed ; */
+    font-family: cursive;
+    background-size: cover;
 }
 
-    .form form {
-       
-        display: grid;
-        padding: 2% 11%;
-    }
+.Page{
+    display:flex;
+    justify-content:space-between;
+    
+}
 
+.form{
+/*    background-color:white;*/
+    width:100%;
+    align-content:center;
+    justify-content:center;
+    color:black;
+}
 
-    .form form input{
-        text-align:left;
-        display: grid;
-        padding: 7px 20px;
- }
-        .form form input:hover {
-            text-align: left;
-            background-color:mediumseagreen;
-            color:white;
-            display: grid;
-            padding: 7px 20px;
-        }
-    .form form button{
-        background-color:lightslategrey;
-        text-align :center; 
-    }
-    .form form button:hover{
-        text-align :center; 
-        background-color:mediumslateblue;
-    }
+.form form{
+    display: grid;
+    margin: 0% 35% 0% 0%;
+    /* margin: -111px 124px; */
+}
+
+.im{/* background-color:lightblue; 
+    //* width: 50%; */
+    padding:0% 13% ;
+}

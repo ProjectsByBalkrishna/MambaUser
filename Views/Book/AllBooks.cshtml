@@ -1,17 +1,17 @@
 ﻿@model IEnumerable<books>
-<button class="btn btn-outline-info"><a asp-action="Create" asp-controller="Book" style="text-decoration:none">Add new Book</a></button>
-    <table class="table">
+    <table style="background-color:burlywood ">
+    
+    <a asp-action="Create" asp-controller="Book" class="btn btn-outline-light">Add new Book</a>
+
     <tr>
         <th>Name</th>
         <th>Author</th>
         <th>description</th>
         <th>price</th>
-        <th>created date</th>
-        <th>modifieddate</th>
+        
         <th>IsActive</th>
         <th>category</th>
-        <th>created by</th>
-        <th>Modified by</th>
+       
         <th>Update</th>
         <th>Delete</th>
     </tr>
@@ -22,12 +22,10 @@
         <td>@x.Author</td>
         <td>@x.Description</td>
         <td>@x.Price</td>
-        <td>@x.CreatedDate</td>
-        <td>@x.ModifiedDate</td>
+        
         <td>@x.IsActive</td>
         <td>@x.Category</td>
-        <td>@x.CreatedBy</td>
-        <td>@x.Modifiedby</td>
+        
 
 
 
@@ -49,3 +47,26 @@
     </tr>
   }
 </table>
+
+                    <style>
+                        table, tr{
+                            width:100%;
+                            border:1px solid black;
+                        }
+
+                        td{
+                            border:1px solid black;
+                        }
+
+    td:hover {
+        border: 1px solid black;
+        background-color:antiquewhite;
+            box-shadow: 2px 2px 1px 1px black;
+        }
+
+        tr:hover {
+            border: 1px solid black;
+            background-color: sandybrown;
+            box-shadow:1px 1px 1px 1px black;
+        }
+</style>

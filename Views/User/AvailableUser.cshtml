@@ -1,0 +1,56 @@
+@model IEnumerable<LoginUser>
+
+<html>
+
+<body>
+
+    <table class="table">
+
+        <tr>
+            <th>UserID</th>
+            <th>UserName</th>
+            <th>Email</th>
+            <th>Phone no</th>
+            <th>Available</th>
+            <th>Created by</th>
+            <th>Created Date</th>
+            <th>modified Date</th>
+            <th>modified By</th>
+
+
+        </tr>
+
+        @foreach (var x in Model)
+        {
+           <tr>  <td>@x.UserID</td>
+            <td>@x.UserName</td>
+            <td>@x.Email</td>
+            <td>@x.Phone</td>
+            <td>@x.IsActive</td>
+            <td>@x.CreatedBy</td>
+            <td>@x.CreatedDate</td>
+            <td>@x.ModifiedBy</td>
+            <td>@x.ModifiedDate</td>
+            <td>
+                <div>
+                  <a asp-controller="User" asp-action="Delete" asp-route-id="@x.UserID" class="btn btn-outline-danger"> Delete </a>
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    <a asp-action="Update" asp-controller="User" asp-route-id="@x.UserID" class="btn btn-outline-warning">Update</a>
+                </div>
+            </td>
+
+            </tr>
+        }
+       
+
+      
+
+    </table>
+
+</body>
+
+</html>

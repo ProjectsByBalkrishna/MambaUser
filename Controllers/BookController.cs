@@ -51,7 +51,7 @@ namespace MambaUser.Controllers
 
         public IActionResult AllBooks()
         {
-            var all = _context.Books.ToList();
+            var all = _context.Books.ToList().OrderByDescending(x => x.Price);
             return View(all);
         }
         [HttpGet]

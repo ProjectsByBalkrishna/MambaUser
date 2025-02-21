@@ -3,16 +3,15 @@
 <body>
     <h2> Create User</h2>
     <form method="post" action="AddUser">
-        <input type="text" name="UserName" placeholder="Username">
-        <input type="Password" name="Password" placeholder="password">
-        <input type="email" name="Email" placeholder="email">
-        <input type="number" name="Phone" placeholder="phone no">
-        <select name="IsActive">
+        <label for="">UserName</label><input type="text" name="UserName" placeholder="Username">
+       <label for="">Password</label> <input type="Password" name="Password" placeholder="password">
+        <label for="">Email</label><input type="email" name="Email" placeholder="email">
+        <label for="">Phone</label><input type="number" name="Phone" placeholder="phone no">
+       <label for="">Available</label> <select name="IsActive">
             <option value=true>Available</option>
             <option value=false>Not Available</option>
         </select>
-        <input type="date" name="CreatedDate" placeholder="Creation Date">
-        <input type="number" name="CreatedBy" placeholder="Created by">
+       <label for="">CreatedBy</label> <input type="number" name="CreatedBy" placeholder="Created by">
         @* <input type="text" name="ModifiedDate"> *@
         @* <input type="text" name="ModifiedBy"> *@
 

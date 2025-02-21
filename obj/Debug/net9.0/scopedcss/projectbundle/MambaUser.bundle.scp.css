@@ -8,31 +8,42 @@ a.navbar-brand[b-ye21kp9mz3] {
   word-break: break-all;
 }
 
+ul li:hover[b-ye21kp9mz3] {
+    white-space: normal;
+    box-shadow:1px 1px 1px 1px black;
+    text-align: center;
+    background-color:cornsilk;
+    word-break: break-all;
+}
+header nav[b-ye21kp9mz3]{
+    background-color:lightblue;
+}
 a[b-ye21kp9mz3] {
   color: #0077cc;
 }
 
 .btn-primary[b-ye21kp9mz3] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #ffffff;
+    border-color: #1861ac;
 }
 
 .nav-pills .nav-link.active[b-ye21kp9mz3], .nav-pills .show > .nav-link[b-ye21kp9mz3] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #ffffff;
+    border-color: #1861ac;
 }
 
+
 .border-top[b-ye21kp9mz3] {
-  border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
 }
 .border-bottom[b-ye21kp9mz3] {
   border-bottom: 1px solid #e5e5e5;
 }
 
 .box-shadow[b-ye21kp9mz3] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow:10px 1px 0px 1px black;
 }
 
 button.accept-policy[b-ye21kp9mz3] {
