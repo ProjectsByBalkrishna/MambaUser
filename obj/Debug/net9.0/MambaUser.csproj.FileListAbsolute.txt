@@ -235,4 +235,3 @@ C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\s0chvy5x4y
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\x69bpum73j-5hsrh4bsto.gz
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\mq2eswllcf-k74aiavbmz.gz
 C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\compressed\03womm5520-7k9def2v8x.gz
-C:\Users\ritu2\OneDrive\Desktop\MambaUser\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
