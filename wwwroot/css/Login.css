@@ -27,11 +27,24 @@
         background-color:antiquewhite;
         /* margin: -111px 124px; */
     }
+    input{
+        width:50%;
+        height:125%
+    }
     input:hover{
        
-        box-shadow:1px 1px 1px 0px grey;
-        background-color:cornsilk;
+        box-shadow:2px 2px 1px 0px grey;
+        background-color:floralwhite;
     }
+
+    button{
+        width:70PX;
+        font-family:cursive;
+        font-size:large;
+    }
+        button:hover {
+            box-shadow: 2px 2px 1px 0px black;
+        }
 
 .im{/* background-color:lightblue; 
     //* width: 50%; */

@@ -1,14 +1,15 @@
 <html>
+<link href="~/css/adduser.css" rel="stylesheet" />
     <body>
-        <h1> Create new user </h1>
+        <h1> New Book </h1>
     <h3 style="color:cornflowerblue">@ViewData["message"]</h3>
 
-<form style="background-color:aliceblue" action="Create" method="post">
+<form action="Create" method="post">
     <label >BookName</label>
-<input type="text" name="Name" placeholder="BookName" required><br /> <br />
-       <label >Author</label> <input type="text" name="author" placeholder="Author" required><br /><br />
-     <label >description</label>   <input type="text" name="description" placeholder="description" required><br /><br />
-        <label >price</label><input type="text" name="price" placeholder="price" required><br /><br />
+<input type="text" name="Name" placeholder="BookName" required>
+       <label >Author</label> <input type="text" name="author" placeholder="Author" required>
+     <label >description</label>   <input type="text" name="description" placeholder="description" required>
+        <label >price</label><input type="text" name="price" placeholder="price" required>
         <label >Available</label><select name="IsActive">
     <option value=true>Available book</option>
     <option value=false>Not Available </option>

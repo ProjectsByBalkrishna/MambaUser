@@ -1,5 +1,6 @@
 ﻿@model IEnumerable<books>
-    <table style="background-color:burlywood ">
+<link href="~/css/booklist.css" rel="stylesheet" />
+<table style="background-color:burlywood ">
     
     <a asp-action="Create" asp-controller="Book" class="btn btn-outline-light">Add new Book</a>
 
@@ -48,25 +49,4 @@
   }
 </table>
 
-                    <style>
-                        table, tr{
-                            width:100%;
-                            border:1px solid black;
-                        }
-
-                        td{
-                            border:1px solid black;
-                        }
-
-    td:hover {
-        border: 1px solid black;
-        background-color:antiquewhite;
-            box-shadow: 2px 2px 1px 1px black;
-        }
-
-        tr:hover {
-            border: 1px solid black;
-            background-color: sandybrown;
-            box-shadow:1px 1px 1px 1px black;
-        }
-</style>
+   

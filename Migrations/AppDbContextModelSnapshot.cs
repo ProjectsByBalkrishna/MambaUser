@@ -22,7 +22,7 @@ namespace MambaUser.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("MambaUser.Models.Admina", b =>
+            modelBuilder.Entity("MambaUser.Models.Admin", b =>
                 {
                     b.Property<int>("AdminID")
                         .ValueGeneratedOnAdd()
@@ -41,6 +41,28 @@ namespace MambaUser.Migrations
                     b.HasKey("AdminID");
 
                     b.ToTable("Admins");
+                });
+
+            modelBuilder.Entity("MambaUser.Models.IssueBook", b =>
+                {
+                    b.Property<int>("IssueID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IssueID"));
+
+                    b.Property<int>("BookID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("IssueDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.HasKey("IssueID");
+
+                    b.ToTable("IssueBooks");
                 });
 
             modelBuilder.Entity("MambaUser.Models.LoginUser", b =>

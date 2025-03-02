@@ -11,6 +11,7 @@ namespace MambaUser.Data{
 public DbSet<LoginUser> Users { get; set; }
 public DbSet<Admin> Admins { get; set; }
 public DbSet<books> Books { get; set; }
+public DbSet<IssueBook> IssueBooks { get; set; }
 
     }
 }

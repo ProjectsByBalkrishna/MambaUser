@@ -1,0 +1,18 @@
+﻿@model IEnumerable<IssueBook>
+
+    <table>
+        <tr>
+            <th>IssueID</th>
+            <th>BookName</th>
+        <th>UserName</th>
+        <th>IssueDate</th>
+        </tr>
+        @foreach(var x in Model){
+            <tr>
+                <td> @x.IssueID </td>
+                <td>@x.BookID</td>
+                <td>@x.UserID</td>
+                <td>@x.IssueDate</td>
+            </tr>
+        }
+    </table>

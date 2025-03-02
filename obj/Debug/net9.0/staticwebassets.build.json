@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NR8gmp0x9XVBDGpdYYNjZOsWdXwR50TFpsthUIvXWw0=",
+  "Hash": "q68o9nXjQX5ulZjojWnEaIZYjmjfIyQbNrtU/aHL7TI=",
   "Source": "MambaUser",
   "BasePath": "_content/MambaUser",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\03womm5520-7k9def2v8x.gz",
+      "SourceId": "MambaUser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MambaUser",
+      "RelativePath": "css/booklist#[.{fingerprint=7k9def2v8x}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\booklist.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dmmd1r8ssp",
+      "Integrity": "O99VBmwpRs7hZU4VMOY9YPfZmAu7IcsJSP51BSpy3Tg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\booklist.css"
+    },
     {
       "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\07c3ag49bn-493y06b0oq.gz",
       "SourceId": "MambaUser",
@@ -80,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-rblwr1yc8y.gz",
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-qqe1rqnv9x.gz",
       "SourceId": "MambaUser",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MambaUser",
-      "RelativePath": "MambaUser#[.{fingerprint=rblwr1yc8y}]!.bundle.scp.css.gz",
+      "RelativePath": "MambaUser#[.{fingerprint=qqe1rqnv9x}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -94,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MambaUser.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o6g4yp6jbl",
-      "Integrity": "EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=",
+      "Fingerprint": "5ayx3enh2m",
+      "Integrity": "zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MambaUser.bundle.scp.css"
@@ -920,12 +941,12 @@
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-bovkcwlpzn.gz",
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-k74aiavbmz.gz",
       "SourceId": "MambaUser",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MambaUser",
-      "RelativePath": "css/indexofhome#[.{fingerprint=bovkcwlpzn}]?.css.gz",
+      "RelativePath": "css/indexofhome#[.{fingerprint=k74aiavbmz}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -934,8 +955,8 @@
       "RelatedAsset": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zgqb5o3o7a",
-      "Integrity": "PfAV91zwZeSnv2nvuoJqT338fG6gc7tTUrwHWWPoX28=",
+      "Fingerprint": "ixbsqq1xp1",
+      "Integrity": "Zn01mIgCNOVPnBadAK5m4b7s9uhiyHhU5r9Q2hB0vlY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css"
@@ -1046,12 +1067,12 @@
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-hy73ifnjof.gz",
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-e8dze4pi2z.gz",
       "SourceId": "MambaUser",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MambaUser",
-      "RelativePath": "css/Login#[.{fingerprint=hy73ifnjof}]?.css.gz",
+      "RelativePath": "css/Login#[.{fingerprint=e8dze4pi2z}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1060,8 +1081,8 @@
       "RelatedAsset": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\Login.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o9brcqyz7e",
-      "Integrity": "NHrCdzbZEin2cLM70wz5q3i8w7YC0ca5GW74w9TV+K4=",
+      "Fingerprint": "2fdffqmvaj",
+      "Integrity": "Utc0+sE+toaq0/xJsfJJBM+PTYeDFdlop6dKNADp+C4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\Login.css"
@@ -1256,6 +1277,27 @@
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\x69bpum73j-5hsrh4bsto.gz",
+      "SourceId": "MambaUser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MambaUser",
+      "RelativePath": "css/AddUser#[.{fingerprint=5hsrh4bsto}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\AddUser.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8f0yz09hpo",
+      "Integrity": "XPaDE6hv3DC5O9JvnRAcjJNiU6Xzj0hnQFDHafFbr0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\AddUser.css"
+    },
+    {
       "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\xg30s4qezx-s35ty4nyc5.gz",
       "SourceId": "MambaUser",
       "SourceType": "Discovered",
@@ -1361,12 +1403,12 @@
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-rblwr1yc8y.gz",
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-qqe1rqnv9x.gz",
       "SourceId": "MambaUser",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MambaUser",
-      "RelativePath": "MambaUser#[.{fingerprint=rblwr1yc8y}]?.styles.css.gz",
+      "RelativePath": "MambaUser#[.{fingerprint=qqe1rqnv9x}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1375,8 +1417,8 @@
       "RelatedAsset": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MambaUser.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o6g4yp6jbl",
-      "Integrity": "EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=",
+      "Fingerprint": "5ayx3enh2m",
+      "Integrity": "zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MambaUser.styles.css"
@@ -1417,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "rblwr1yc8y",
-      "Integrity": "CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=",
+      "Fingerprint": "qqe1rqnv9x",
+      "Integrity": "HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MambaUser.styles.css"
@@ -1438,11 +1480,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "rblwr1yc8y",
-      "Integrity": "CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=",
+      "Fingerprint": "qqe1rqnv9x",
+      "Integrity": "HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MambaUser.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\AddUser.css",
+      "SourceId": "MambaUser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\",
+      "BasePath": "_content/MambaUser",
+      "RelativePath": "css/AddUser#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5hsrh4bsto",
+      "Integrity": "F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AddUser.css"
+    },
+    {
+      "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\booklist.css",
+      "SourceId": "MambaUser",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\",
+      "BasePath": "_content/MambaUser",
+      "RelativePath": "css/booklist#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7k9def2v8x",
+      "Integrity": "WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\booklist.css"
     },
     {
       "Identity": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css",
@@ -1459,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bovkcwlpzn",
-      "Integrity": "pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g=",
+      "Fingerprint": "k74aiavbmz",
+      "Integrity": "MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\indexofhome.css"
@@ -1480,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hy73ifnjof",
-      "Integrity": "95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc=",
+      "Fingerprint": "e8dze4pi2z",
+      "Integrity": "QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
@@ -2854,13 +2938,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/indexofhome.bovkcwlpzn.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-bovkcwlpzn.gz",
+      "Route": "css/AddUser.5hsrh4bsto.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\x69bpum73j-5hsrh4bsto.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001751313485"
+          "Quality": "0.003367003367"
         }
       ],
       "ResponseHeaders": [
@@ -2870,15 +2954,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "570"
+          "Value": "296"
         },
         {
           "Name": "ETag",
-          "Value": "\"PfAV91zwZeSnv2nvuoJqT338fG6gc7tTUrwHWWPoX28=\""
+          "Value": "\"XPaDE6hv3DC5O9JvnRAcjJNiU6Xzj0hnQFDHafFbr0M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:12:08 GMT"
+          "Value": "Sat, 22 Feb 2025 02:54:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2898,26 +2982,614 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g=\""
+          "Value": "W/\"F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bovkcwlpzn"
+          "Value": "5hsrh4bsto"
         },
         {
           "Name": "label",
-          "Value": "css/indexofhome.css"
+          "Value": "css/AddUser.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g="
+          "Value": "sha256-F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak="
         }
       ]
     },
     {
-      "Route": "css/indexofhome.bovkcwlpzn.css",
+      "Route": "css/AddUser.5hsrh4bsto.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\AddUser.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 02:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hsrh4bsto"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AddUser.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddUser.5hsrh4bsto.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\x69bpum73j-5hsrh4bsto.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XPaDE6hv3DC5O9JvnRAcjJNiU6Xzj0hnQFDHafFbr0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 02:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hsrh4bsto"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AddUser.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XPaDE6hv3DC5O9JvnRAcjJNiU6Xzj0hnQFDHafFbr0M="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddUser.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\x69bpum73j-5hsrh4bsto.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003367003367"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XPaDE6hv3DC5O9JvnRAcjJNiU6Xzj0hnQFDHafFbr0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 02:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddUser.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\AddUser.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 02:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F0bs1g7Pie212nJuryqJSdPCmtYVOMTTjNbojoeBbak="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddUser.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\x69bpum73j-5hsrh4bsto.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XPaDE6hv3DC5O9JvnRAcjJNiU6Xzj0hnQFDHafFbr0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 02:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XPaDE6hv3DC5O9JvnRAcjJNiU6Xzj0hnQFDHafFbr0M="
+        }
+      ]
+    },
+    {
+      "Route": "css/booklist.7k9def2v8x.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\03womm5520-7k9def2v8x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006666666667"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O99VBmwpRs7hZU4VMOY9YPfZmAu7IcsJSP51BSpy3Tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7k9def2v8x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/booklist.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM="
+        }
+      ]
+    },
+    {
+      "Route": "css/booklist.7k9def2v8x.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\booklist.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7k9def2v8x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/booklist.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM="
+        }
+      ]
+    },
+    {
+      "Route": "css/booklist.7k9def2v8x.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\03womm5520-7k9def2v8x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O99VBmwpRs7hZU4VMOY9YPfZmAu7IcsJSP51BSpy3Tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7k9def2v8x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/booklist.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O99VBmwpRs7hZU4VMOY9YPfZmAu7IcsJSP51BSpy3Tg="
+        }
+      ]
+    },
+    {
+      "Route": "css/booklist.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\03womm5520-7k9def2v8x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006666666667"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O99VBmwpRs7hZU4VMOY9YPfZmAu7IcsJSP51BSpy3Tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM="
+        }
+      ]
+    },
+    {
+      "Route": "css/booklist.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\booklist.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WUQ8gbJDBbCPqvZUfxIWJOEaPrlmSPClRctfM15YazM="
+        }
+      ]
+    },
+    {
+      "Route": "css/booklist.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\03womm5520-7k9def2v8x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O99VBmwpRs7hZU4VMOY9YPfZmAu7IcsJSP51BSpy3Tg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 14:53:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O99VBmwpRs7hZU4VMOY9YPfZmAu7IcsJSP51BSpy3Tg="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexofhome.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-k74aiavbmz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001686340641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "592"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zn01mIgCNOVPnBadAK5m4b7s9uhiyHhU5r9Q2hB0vlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 03:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexofhome.css",
       "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2927,7 +3599,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1890"
+          "Value": "1971"
         },
         {
           "Name": "Content-Type",
@@ -2935,11 +3607,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g=\""
+          "Value": "\"MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:12:08 GMT"
+          "Value": "Sat, 22 Feb 2025 03:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexofhome.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-k74aiavbmz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zn01mIgCNOVPnBadAK5m4b7s9uhiyHhU5r9Q2hB0vlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 03:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zn01mIgCNOVPnBadAK5m4b7s9uhiyHhU5r9Q2hB0vlY="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexofhome.k74aiavbmz.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-k74aiavbmz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001686340641"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "592"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zn01mIgCNOVPnBadAK5m4b7s9uhiyHhU5r9Q2hB0vlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 03:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k74aiavbmz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/indexofhome.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs="
+        }
+      ]
+    },
+    {
+      "Route": "css/indexofhome.k74aiavbmz.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 03:49:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2949,7 +3766,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bovkcwlpzn"
+          "Value": "k74aiavbmz"
         },
         {
           "Name": "label",
@@ -2957,13 +3774,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g="
+          "Value": "sha256-MGJ/5O0+G6Dy67hgkLyALHPvrS9mayDCAuXqsrY+ILs="
         }
       ]
     },
     {
-      "Route": "css/indexofhome.bovkcwlpzn.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-bovkcwlpzn.gz",
+      "Route": "css/indexofhome.k74aiavbmz.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-k74aiavbmz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2972,7 +3789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "570"
+          "Value": "592"
         },
         {
           "Name": "Content-Type",
@@ -2980,11 +3797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PfAV91zwZeSnv2nvuoJqT338fG6gc7tTUrwHWWPoX28=\""
+          "Value": "\"Zn01mIgCNOVPnBadAK5m4b7s9uhiyHhU5r9Q2hB0vlY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:12:08 GMT"
+          "Value": "Sat, 22 Feb 2025 03:49:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3002,7 +3819,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bovkcwlpzn"
+          "Value": "k74aiavbmz"
         },
         {
           "Name": "label",
@@ -3010,155 +3827,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PfAV91zwZeSnv2nvuoJqT338fG6gc7tTUrwHWWPoX28="
-        }
-      ]
-    },
-    {
-      "Route": "css/indexofhome.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-bovkcwlpzn.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001751313485"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "570"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PfAV91zwZeSnv2nvuoJqT338fG6gc7tTUrwHWWPoX28=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:12:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g="
-        }
-      ]
-    },
-    {
-      "Route": "css/indexofhome.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\indexofhome.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1890"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:12:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pYbZrXjNBtG6Ze4NY2jfsKLJm1/gyzhhZVOdf8qtp7g="
-        }
-      ]
-    },
-    {
-      "Route": "css/indexofhome.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\mq2eswllcf-bovkcwlpzn.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "570"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PfAV91zwZeSnv2nvuoJqT338fG6gc7tTUrwHWWPoX28=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:12:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PfAV91zwZeSnv2nvuoJqT338fG6gc7tTUrwHWWPoX28="
+          "Value": "sha256-Zn01mIgCNOVPnBadAK5m4b7s9uhiyHhU5r9Q2hB0vlY="
         }
       ]
     },
     {
       "Route": "css/Login.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-hy73ifnjof.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-e8dze4pi2z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002283105023"
+          "Quality": "0.002008032129"
         }
       ],
       "ResponseHeaders": [
@@ -3168,15 +3848,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "497"
         },
         {
           "Name": "ETag",
-          "Value": "\"NHrCdzbZEin2cLM70wz5q3i8w7YC0ca5GW74w9TV+K4=\""
+          "Value": "\"Utc0+sE+toaq0/xJsfJJBM+PTYeDFdlop6dKNADp+C4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:07:16 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3196,13 +3876,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc=\""
+          "Value": "W/\"QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc="
+          "Value": "sha256-QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k="
         }
       ]
     },
@@ -3217,7 +3897,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "980"
+          "Value": "1225"
         },
         {
           "Name": "Content-Type",
@@ -3225,11 +3905,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc=\""
+          "Value": "\"QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:07:16 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3239,13 +3919,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc="
+          "Value": "sha256-QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k="
         }
       ]
     },
     {
       "Route": "css/Login.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-hy73ifnjof.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-e8dze4pi2z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3254,7 +3934,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "497"
         },
         {
           "Name": "Content-Type",
@@ -3262,11 +3942,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NHrCdzbZEin2cLM70wz5q3i8w7YC0ca5GW74w9TV+K4=\""
+          "Value": "\"Utc0+sE+toaq0/xJsfJJBM+PTYeDFdlop6dKNADp+C4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:07:16 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3284,18 +3964,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NHrCdzbZEin2cLM70wz5q3i8w7YC0ca5GW74w9TV+K4="
+          "Value": "sha256-Utc0+sE+toaq0/xJsfJJBM+PTYeDFdlop6dKNADp+C4="
         }
       ]
     },
     {
-      "Route": "css/Login.hy73ifnjof.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-hy73ifnjof.gz",
+      "Route": "css/Login.e8dze4pi2z.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-e8dze4pi2z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002283105023"
+          "Quality": "0.002008032129"
         }
       ],
       "ResponseHeaders": [
@@ -3305,15 +3985,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "497"
         },
         {
           "Name": "ETag",
-          "Value": "\"NHrCdzbZEin2cLM70wz5q3i8w7YC0ca5GW74w9TV+K4=\""
+          "Value": "\"Utc0+sE+toaq0/xJsfJJBM+PTYeDFdlop6dKNADp+C4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:07:16 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3333,13 +4013,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc=\""
+          "Value": "W/\"QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hy73ifnjof"
+          "Value": "e8dze4pi2z"
         },
         {
           "Name": "label",
@@ -3347,12 +4027,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc="
+          "Value": "sha256-QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k="
         }
       ]
     },
     {
-      "Route": "css/Login.hy73ifnjof.css",
+      "Route": "css/Login.e8dze4pi2z.css",
       "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\wwwroot\\css\\Login.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3362,7 +4042,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "980"
+          "Value": "1225"
         },
         {
           "Name": "Content-Type",
@@ -3370,11 +4050,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc=\""
+          "Value": "\"QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:07:16 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3384,7 +4064,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hy73ifnjof"
+          "Value": "e8dze4pi2z"
         },
         {
           "Name": "label",
@@ -3392,13 +4072,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-95Yzh4JeCamp9LEVFqBV79oyIPNEY6/LReeZewjhKTc="
+          "Value": "sha256-QmSungpfLlj2t4YLsECwxk+qER0S+5qg0B2BH1RA56k="
         }
       ]
     },
     {
-      "Route": "css/Login.hy73ifnjof.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-hy73ifnjof.gz",
+      "Route": "css/Login.e8dze4pi2z.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\s0chvy5x4y-e8dze4pi2z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3407,7 +4087,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "437"
+          "Value": "497"
         },
         {
           "Name": "Content-Type",
@@ -3415,11 +4095,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NHrCdzbZEin2cLM70wz5q3i8w7YC0ca5GW74w9TV+K4=\""
+          "Value": "\"Utc0+sE+toaq0/xJsfJJBM+PTYeDFdlop6dKNADp+C4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:07:16 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3437,7 +4117,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hy73ifnjof"
+          "Value": "e8dze4pi2z"
         },
         {
           "Name": "label",
@@ -3445,7 +4125,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NHrCdzbZEin2cLM70wz5q3i8w7YC0ca5GW74w9TV+K4="
+          "Value": "sha256-Utc0+sE+toaq0/xJsfJJBM+PTYeDFdlop6dKNADp+C4="
         }
       ]
     },
@@ -3474,7 +4154,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 15:37:52 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3535,7 +4215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 15:37:52 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3580,7 +4260,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 15:37:52 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3635,7 +4315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 15:37:52 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3688,7 +4368,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 15:37:52 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3725,7 +4405,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 15:37:52 GMT"
+          "Value": "Sat, 22 Feb 2025 02:13:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22173,12 +22853,12 @@
     },
     {
       "Route": "MambaUser.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-rblwr1yc8y.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-qqe1rqnv9x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001692047377"
+          "Quality": "0.001642036125"
         }
       ],
       "ResponseHeaders": [
@@ -22188,15 +22868,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22216,13 +22896,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "W/\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
@@ -22237,7 +22917,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1380"
+          "Value": "1455"
         },
         {
           "Name": "Content-Type",
@@ -22245,11 +22925,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22259,13 +22939,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
     {
       "Route": "MambaUser.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-rblwr1yc8y.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-qqe1rqnv9x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22274,7 +22954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "Content-Type",
@@ -22282,11 +22962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22304,18 +22984,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4="
+          "Value": "sha256-zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA="
         }
       ]
     },
     {
-      "Route": "MambaUser.rblwr1yc8y.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-rblwr1yc8y.gz",
+      "Route": "MambaUser.qqe1rqnv9x.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-qqe1rqnv9x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001692047377"
+          "Quality": "0.001642036125"
         }
       ],
       "ResponseHeaders": [
@@ -22325,15 +23005,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22353,13 +23033,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "W/\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rblwr1yc8y"
+          "Value": "qqe1rqnv9x"
         },
         {
           "Name": "label",
@@ -22367,12 +23047,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
     {
-      "Route": "MambaUser.rblwr1yc8y.bundle.scp.css",
+      "Route": "MambaUser.qqe1rqnv9x.bundle.scp.css",
       "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MambaUser.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22382,7 +23062,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1380"
+          "Value": "1455"
         },
         {
           "Name": "Content-Type",
@@ -22390,11 +23070,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22404,7 +23084,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rblwr1yc8y"
+          "Value": "qqe1rqnv9x"
         },
         {
           "Name": "label",
@@ -22412,13 +23092,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
     {
-      "Route": "MambaUser.rblwr1yc8y.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-rblwr1yc8y.gz",
+      "Route": "MambaUser.qqe1rqnv9x.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\1inklyddlu-qqe1rqnv9x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22427,7 +23107,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "Content-Type",
@@ -22435,11 +23115,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22457,7 +23137,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rblwr1yc8y"
+          "Value": "qqe1rqnv9x"
         },
         {
           "Name": "label",
@@ -22465,18 +23145,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4="
+          "Value": "sha256-zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA="
         }
       ]
     },
     {
-      "Route": "MambaUser.rblwr1yc8y.styles.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-rblwr1yc8y.gz",
+      "Route": "MambaUser.qqe1rqnv9x.styles.css",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-qqe1rqnv9x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001692047377"
+          "Quality": "0.001642036125"
         }
       ],
       "ResponseHeaders": [
@@ -22486,15 +23166,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22514,13 +23194,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "W/\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rblwr1yc8y"
+          "Value": "qqe1rqnv9x"
         },
         {
           "Name": "label",
@@ -22528,12 +23208,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
     {
-      "Route": "MambaUser.rblwr1yc8y.styles.css",
+      "Route": "MambaUser.qqe1rqnv9x.styles.css",
       "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MambaUser.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22543,7 +23223,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1380"
+          "Value": "1455"
         },
         {
           "Name": "Content-Type",
@@ -22551,11 +23231,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22565,7 +23245,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rblwr1yc8y"
+          "Value": "qqe1rqnv9x"
         },
         {
           "Name": "label",
@@ -22573,13 +23253,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
     {
-      "Route": "MambaUser.rblwr1yc8y.styles.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-rblwr1yc8y.gz",
+      "Route": "MambaUser.qqe1rqnv9x.styles.css.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-qqe1rqnv9x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22588,7 +23268,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "Content-Type",
@@ -22596,11 +23276,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22618,7 +23298,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rblwr1yc8y"
+          "Value": "qqe1rqnv9x"
         },
         {
           "Name": "label",
@@ -22626,18 +23306,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4="
+          "Value": "sha256-zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA="
         }
       ]
     },
     {
       "Route": "MambaUser.styles.css",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-rblwr1yc8y.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-qqe1rqnv9x.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001692047377"
+          "Quality": "0.001642036125"
         }
       ],
       "ResponseHeaders": [
@@ -22647,15 +23327,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22675,13 +23355,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "W/\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
@@ -22696,7 +23376,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1380"
+          "Value": "1455"
         },
         {
           "Name": "Content-Type",
@@ -22704,11 +23384,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4=\""
+          "Value": "\"HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22718,13 +23398,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CQ2vYE7nBZzASU1opo8X3Kda+DjTsIWhmgNkMfulGK4="
+          "Value": "sha256-HizV0++X3Bq/pOMQSk9HDES2NpiavF42x866JlIMiHg="
         }
       ]
     },
     {
       "Route": "MambaUser.styles.css.gz",
-      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-rblwr1yc8y.gz",
+      "AssetFile": "C:\\Users\\ritu2\\OneDrive\\Desktop\\MambaUser\\obj\\Debug\\net9.0\\compressed\\zbs21br0ta-qqe1rqnv9x.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22733,7 +23413,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "608"
         },
         {
           "Name": "Content-Type",
@@ -22741,11 +23421,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4=\""
+          "Value": "\"zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 18:18:02 GMT"
+          "Value": "Fri, 21 Feb 2025 18:20:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22763,7 +23443,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EE/DwvSBRBCM8XYFL692KmCC36EFbGuqBVzIy127Nu4="
+          "Value": "sha256-zbawYPKQSYoDpTdH2HKqR/r9FBms1IC5GjHN3DZGqnA="
         }
       ]
     }
